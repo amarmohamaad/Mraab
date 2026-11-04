@@ -1,0 +1,1 @@
+fetch('data/projects.json').then(r=>r.json()).then(rows=>{document.getElementById('project-list').innerHTML=rows.map((p,i)=>`<article class="specialty-card"><span class="card-kicker">PROJECT / 0${i+1} · ${p.level}</span><div class="card-icon">⌘</div><h3>${p.title}</h3><p>${p.short}</p><span class="card-arrow">مشروع تعليمي ↗</span></article>`).join('')});
