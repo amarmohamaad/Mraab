@@ -1,0 +1,74 @@
+[
+  {
+    "title": "مهندس نقل ضوئي",
+    "english": "Optical Transport Engineer",
+    "short": "تصميم وتشغيل وصلات الألياف وأنظمة النقل الضوئي.",
+    "skills": [
+      "Fiber fundamentals",
+      "Optical power budget",
+      "OTDR basics",
+      "DWDM concepts"
+    ],
+    "project": "تصميم وصلة ألياف افتراضية مع حساب ميزانية القدرة وتوثيق الخسائر."
+  },
+  {
+    "title": "مهندس شبكات IP",
+    "english": "IP Network Engineer",
+    "short": "تصميم الشبكات وإعداد التوجيه والتبديل واستكشاف الأعطال.",
+    "skills": [
+      "IPv4/IPv6",
+      "Subnetting",
+      "Routing & Switching",
+      "Network troubleshooting"
+    ],
+    "project": "بناء شبكة متعددة الأقسام مع خطة عنونة واختبارات اتصال."
+  },
+  {
+    "title": "مهندس RF ومايكروويف",
+    "english": "RF / Microwave Engineer",
+    "short": "تخطيط الوصلات اللاسلكية وتحليل الترددات والهوائيات.",
+    "skills": [
+      "RF fundamentals",
+      "Link budget",
+      "Antennas",
+      "Path loss"
+    ],
+    "project": "إعداد دراسة أولية لوصلة مايكروويف مع ميزانية وصلة وافتراضات واضحة."
+  },
+  {
+    "title": "مهندس شبكات خلوية",
+    "english": "Mobile Network Engineer",
+    "short": "تحسين أداء الشبكات الخلوية وفهم النفاذ الراديوي والتغطية.",
+    "skills": [
+      "Radio access concepts",
+      "Coverage & capacity",
+      "Drive-test analysis",
+      "4G/5G architecture"
+    ],
+    "project": "تحليل سيناريو تغطية خلوية افتراضي واقتراح تحسينات."
+  },
+  {
+    "title": "مهندس أتمتة الشبكات",
+    "english": "Network Automation Engineer",
+    "short": "دمج البرمجة مع تشغيل الشبكات والمراقبة.",
+    "skills": [
+      "Python",
+      "APIs",
+      "Data parsing",
+      "Network monitoring"
+    ],
+    "project": "أداة Python تجريبية تجمع بيانات حالة أجهزة وتعرض تنبيهات."
+  },
+  {
+    "title": "مهندس أمن شبكات",
+    "english": "Network Security Engineer",
+    "short": "حماية الشبكات والخدمات ومراجعة ضوابط الوصول.",
+    "skills": [
+      "Network protocols",
+      "Access control",
+      "Security monitoring",
+      "Threat modeling"
+    ],
+    "project": "تصميم شبكة صغيرة مع تقسيم منطقي وسياسة وصول موثقة."
+  }
+]
